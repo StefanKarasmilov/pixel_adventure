@@ -12,11 +12,11 @@
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 1.8001,
-            "selectedLayer": 1,
+            "scale": 2.3894,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 319.98222320982165,
-                "y": 184.43419810010556
+                "x": 305.93454423704696,
+                "y": 210.51309952289273
             }
         },
         "Level-02.tmx": {
@@ -47,6 +47,7 @@
         "Level-02.tmx"
     ],
     "project": "Pixel Adventure.tiled-project",
+    "property.type": "float",
     "recentFiles": [
         "Pixel Adventure.tsx",
         "Level-02.tmx",
